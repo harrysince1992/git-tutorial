@@ -1,1 +1,3 @@
 fetch example
+
+merge conflict example
