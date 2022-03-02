@@ -1,3 +1,5 @@
 this is a new file on new branch sigin
 
 changes in file
+
+merge no-fast forward example
